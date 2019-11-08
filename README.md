@@ -1,3 +1,3 @@
-# OI公共图书馆
+# OI公共图书馆/OI Public Library
 
-希望添加内容的小伙伴们可开```Pull Request```~
+CTSC Papers, but this time with English!
