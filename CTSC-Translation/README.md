@@ -2,7 +2,7 @@
 
 (Please note names have been thrown through Google Translate for the sake of time)
 
-##1999
+## 1999
 Chen Hong - "Data Structure Selection and Algorithm Efficiency - Talking from IOI98 Test Questions PICTURE"
 
 Come to Qiankun - "Understanding the essence, flexible use - in-depth discussion of dynamic programming"
@@ -17,7 +17,7 @@ Yang Fan - "Accuracy, Comprehensiveness, Aesthetics - Three Elements in Test Dat
 
 Zhou Yiji - "On the Principle and Design of Randomization Algorithm"
 
-##2000
+## 2000
 Chen Wei, "Thinking Methods in Information Science Competition"
 
 Fang Qi "Dynamic Programming"
@@ -54,7 +54,7 @@ Zhang Li - "The Application of Analogy in Solving Problems"
 
 Zhang Yifei - "The tedious and thorough use of thinness - talk about the full use of information"
 
-##2001
+## 2001
 Gao Hanrui - "Comprehensive Application of Data Structure from Round Table"
 
 Run Wenjie - Principles and Applications of Pólya
@@ -77,7 +77,7 @@ Yu Yu - "The Extension of Basic Dynamic Programming Problems"
 
 Zhang Yifei - "High-precision algorithm for N!"
 
-##2002
+## 2002
 Dai Decheng - "Some Steps to Retreat to the Broad Sky——"Some Applications of the Goal Transformation Thought"
 
 Fang Qi - "On the Application of Necessary Conditions"
@@ -116,7 +116,7 @@ Zhang Yifei - "Accepting the Rational Understanding of Sensibility - Dialysis of
 
 Zhou Wenchao - "The Application of Tree Structure in Programming"
 
-##2003
+## 2003
 Fang Qi - "Application of Dyeing and Construction Method on the Board"
 
 Gao Zhengyu - "There is only one answer - talk about question-and-answer interaction"
@@ -157,7 +157,7 @@ Zhang Yunliang - On the Choice of Algorithms
 
 Zhou Yuan - "Analysis of the Application of the Minimal Representation" in the Problem of String Cyclic Isomorphism
 
-##2004
+## 2004
 He Lin - "Application of Conservation Law in Information Science"
 
 Hu Weidong - "Redundancy Reduction and Algorithm Optimization"
@@ -198,7 +198,7 @@ Zhu Zeyuan - "Multi-string Matching Algorithm and Its Enlightenment"
 
 Han Wentao - "On the Application of C++ Language in Information Science Competition"
 
-##2005
+## 2005
 Long Fan - "Application of Preface"
 
 Wei Wei - "On the related operations and application of "jumping table""
@@ -239,7 +239,7 @@ Zhou Yuan - "On the "Compression Method" in the Information Science Competition"
 
 Zhu Zeyuan - "Back to the Starting Point ---- "A Breakthrough Thinking"
 
-##2006
+## 2006
 Chen Qifeng - "Application of the Method of "Contracting and Relaxing" in Solving Problems"
 
 Chen Shouyuan - "Maintaining Forest Connectivity - Dynamic Tree"
@@ -282,7 +282,7 @@ Zhu Chenguang - "Application of Basic Data Structure in Information Science Comp
 
 Zhu Zeyuan - "The New Algorithm for Half-Plane Intersection and Its Practical Value"
 
-##2007
+## 2007
 Gao Yihan - Discrimination Related to Circles
 
 Wang Xiaotong - "Analysis of a Class of Combination Game"
@@ -323,7 +323,7 @@ Zhou Dong - "The Counting of Spanning Tree and Its Application"
 
 Liu Jiaxuan - "On the Application of Randomization in Information Science Competition"
 
-##2008
+## 2008
 Cao Qinxiang - "Refinement and Compression of Data Structure"
 
 Zheng Wei - "Balanced Planning - Analysis of the Application of a Class of Balanced Thoughts"
@@ -364,7 +364,7 @@ Su Wei - "A Study of Blocked Chains"
 
 Zhou Dong - "The Two Poles are Connected - Analysis of the Maximum - The Application of the Minim Theorem in the Informatics Competition"
 
-##2009
+## 2009
 Wu Sen - "On "0" and "1" in the Information Science Competition"
 
 Jia Zhihao - "Summary of Combination Games - Talking about Some Expansions and Deformations of SG Games"
@@ -405,10 +405,10 @@ Jin Bin - "Application of Euclidean Algorithm"
 
 Cao Qinxiang - "Exploring a Class of Combined Games from the "K Times Dynamic Subtraction Game"
 
-##2010~2012
+## 2010~2012
 The organizing committee suspended the thesis defense project
 
-##2013
+## 2013
 Peng Tianyi - "Climbing Plan"
 
 Wang Kangning - "Checking the Numbers"
@@ -433,7 +433,7 @@ Prince 昱 - "Application of Blocking Method"
 
 Wang Di - "On the principle of tolerance"
 
-##2014
+## 2014
 Prince 昱 - MSS Proposition Report
 
 Yu Xingjiang - Matrix Proposition Report
@@ -462,7 +462,7 @@ Shen Yang - "Return to the Source - Bit Operation and Its Application"
 
 Yu Dingli - "Several Ways to Find the k-th Solution"
 
-##2015
+## 2015
 Liu Yanzhen - "The Extension of the Suffix Automaton in the Dictionary Tree"
 
 Ren Zhizhou - "On the Application of Heuristic Thoughts in Information Science Competition"
@@ -493,7 +493,7 @@ Lu Xiaochen - "Preliminary Exploration of a Kind of Problems with Source Code as
 
 Lu Kaifeng - "The Nature and Application of Set Power Series and Its Fast Algorithm"
 
-##2016
+## 2016
 Ren Zhizhou - "Several Methods for the Summation of Productive Functions"
 
 Jiang Zhihao - "Some Modeling Methods for Network Flows"
@@ -524,7 +524,7 @@ Jin Ce - "Basic Sorting Algorithm Exercises"
 
 Yuan Yuxi - "move proposition report"
 
-##2017
+## 2017
 Mao Xiao - "Some Studies on Recursive Sequences"
 
 Yang Jiaqi - "General Graph Matching Based on Linear Algebra"
@@ -555,7 +555,7 @@ Zhao Yuyu - "Computer Logic and Art: Logic-based Piano Performance Note Model"
 
 Hong Huadun - "Genetic Reconstruction" Proposition Report
 
-##2018
+## 2018
 杨懋龙 - Talking about the Application of Generating Function on the Problem of Rolling Dice
 
 Chen Jianglun - Proposition Report of "Suffix Tree Nodes" and Optimization of a Class of Interval Problems 
@@ -584,7 +584,7 @@ He Zhongtian - "Minimum Variance Spanning Tree" Proposition Report
 
 Chen Tong - Euler diagram related generation and counting problem research
 
-##2019
+## 2019
 Zhong Ziqian - The properties and applications of two types of recursive sequences
 
 Wang Xiujiu - Talking about the random walk problem on the graph model
